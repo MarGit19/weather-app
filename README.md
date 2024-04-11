@@ -1,4 +1,4 @@
-# Weather App [link](https://main--tdsweather-app.netlify.app/)
+# JavaScript-Weather-App
 Welcome to our WeatherApp! This web application allows you to access up-to-date weather information for any city in the world. Whether you're planning a trip, checking on the weather for a loved one's location, or simply curious about conditions elsewhere, our app delivers accurate and reliable weather data to keep you informed.
 
 ## Features
